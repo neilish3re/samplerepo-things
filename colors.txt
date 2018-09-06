@@ -1,7 +1,6 @@
 Colours
 
 blue
-indigo
 white
 red 
 green
